@@ -1,0 +1,19 @@
+team no:1
+{"Name":"sandeep","branch":"CSE"}
+{"Name":"akhil","branch":"CSE"}
+{"Name":"anvesh","branch":"CSE"}
+team no:2
+{"Name":"saikumar","branch":"IT"}
+{"Name":"anurag","branch":"CSE"}
+{"Name":"likhitha","branch":"CSE"}
+team no:3
+{"Name":"venkatesh","branch":"CSE"}
+{"Name":"soujanya","branch":"CSE"}
+{"Name":"ganesh","branch":"CSE"}
+team no:4
+{"Name":"vinay","branch":"CSE"}
+{"Name":"ashish","branch":"CSE"}
+{"Name":"chaithanya","branch":"CSE"}
+team no:5
+{"Name":"sravan","branch":"CSE"}
+{"Name":"nihal","branch":"CSE"}
